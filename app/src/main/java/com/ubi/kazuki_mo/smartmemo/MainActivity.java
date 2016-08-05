@@ -18,7 +18,7 @@ import android.content.Context;
 
 public class MainActivity extends AppCompatActivity{
 
-    // 定数,変数,インスタンス
+    // 定数,変数,インスタンスなど
     private static final int REQUEST_CODE = 0;
     private TextView TV_VoiceRecogResult;
     private ListView LV_Memo;
